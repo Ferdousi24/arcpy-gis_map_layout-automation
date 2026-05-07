@@ -43,7 +43,7 @@ This project was developed as part of Digital Earth course at the University of 
 
 ---
 
-## 📊 Key Skills Demonstrated
+##  Key Skills 
 
 - GIS automation using Python
 - ArcPy scripting (`arcpy.mp`)
@@ -51,20 +51,18 @@ This project was developed as part of Digital Earth course at the University of 
 
 ---
 
-## 📌 Project Type
 
-Applied Digital Earth Programming Lab | GIS Automation Workflow
 
 ---
 
-## 🔗 Author
+## Author
 
 Ferdousi Sultana  
 GIS & Environmental Data Analyst  
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 - Batch processing multiple layouts
 - Integration with environmental datasets
