@@ -48,6 +48,31 @@ This project was developed as part of Digital Earth course at the University of 
 - GIS automation using Python
 - ArcPy scripting (`arcpy.mp`)
 
+
 ---
 
-## 📁 Repository Structure
+## 📌 Project Type
+
+Applied Digital Earth Programming Lab | GIS Automation Workflow
+
+---
+
+## 🔗 Author
+
+Ferdousi Sultana  
+GIS & Environmental Data Analyst  
+
+---
+
+## 📈 Future Improvements
+
+- Batch processing multiple layouts
+- Integration with environmental datasets
+
+---
+
+##  Note
+
+This project demonstrates foundational GIS automation skills using ArcPy and is part of a broader geospatial analysis and environmental data portfolio.
+
+
